@@ -1,2 +1,2 @@
-# dhananjayprojects.github.io
-Personal Website for my Projects
+# imagineappdev.github.io
+Indie Company Website
